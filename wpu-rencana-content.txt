@@ -9,4 +9,7 @@ RENCANA KONTENT WPU
   *font styling 
  - Struktur data dasar
 -Javascript dasar
+ ^ Vue
 -php framework
+ ^ Laravel
+-python
