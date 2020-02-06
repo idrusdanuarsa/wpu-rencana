@@ -12,3 +12,5 @@ RENCANA KONTENT WPU
  ^ React
 -php framework
  ^ Laravel
+ - Struktur data dasar
+-python
