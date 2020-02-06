@@ -1,0 +1,11 @@
+RENCANA KONTENT WPU
+
+-Html dasar
+-css dasar
+  *anatomi css
+  *bahasa
+  *cara menempatkan file css
+  *property
+  *font styling 
+-Javascript dasar
+-php framework
