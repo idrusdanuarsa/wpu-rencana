@@ -7,6 +7,8 @@ RENCANA KONTENT WPU
   *cara menempatkan file css
   *property
   *font styling 
- - Struktur data dasar
--Javascript dasar
+-Javascript Framewors
+ ^ Angular
+ ^ React
 -php framework
+ ^ Laravel
