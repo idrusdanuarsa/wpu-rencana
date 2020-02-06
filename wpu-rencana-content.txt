@@ -8,5 +8,9 @@ RENCANA KONTENT WPU
   *property
   *font styling 
  - Struktur data dasar
--Javascript dasar
+-Javascript Frameworks
+ ^ Vue
+ ^ React
 -php framework
+ ^ Laravel
+-python
